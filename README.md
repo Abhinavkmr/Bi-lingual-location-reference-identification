@@ -17,9 +17,9 @@ If you are using this code, please cite:
 @article{kumar2021location,
   title={Deep neural networks for location reference identification from bi-lingual disaster related tweets},
   author={Kumar, Abhinav and Singh, Jyoti Prakash},
-  journal={Journal Name},
+  journal={IEEE Transactions on Computational Social Systems},
   volume={volume},
   pages={pages},
-  year={2021},
-  publisher={Elsevier}
+  year={2022},
+  publisher={IEEE}
 }
